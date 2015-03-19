@@ -157,3 +157,7 @@ struct words *bintree(struct words **head,char *word){
     return *head;
 
 } 
+
+/*To compile the file just do gcc -o frequency frequency.c
+
+To run the file, just do ./frequency  the-name-of-the-file-you-want-to-count-the-words*/
